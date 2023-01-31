@@ -18,6 +18,3 @@ function lazer(filme,musica) {
     console.log(`o filme ${filme} e a musica ${musica}`)
 }
 lazer("Frozen, uma aventura congelante","to say goodbye")
-
-function multi(X)
-    
